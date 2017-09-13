@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 file from master
+=======
+this is from dog
+>>>>>>> dogBr
