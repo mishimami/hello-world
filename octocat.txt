@@ -1,4 +1,2 @@
 this is the second file I am adding 
 welcome octocat :)
-iod      bird added
-dog added
