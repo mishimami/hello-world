@@ -1,2 +1,3 @@
 this is the second file I am adding 
 welcome octocat :)
+I have added from master
