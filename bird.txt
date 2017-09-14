@@ -2,4 +2,8 @@
 pdll
 jj jj kk
 
+<<<<<<< 8f8ccdef8cfcc248fb196af5aeafd1cec794a5b5
 I am a blue bird. 
+=======
+I am master bird!
+>>>>>>> write to bird from master for rebase
