@@ -1,3 +1,7 @@
 this is the second file I am adding 
 welcome octocat :)
+<<<<<<< HEAD
 I am adding from ROse branch
+=======
+I have added from master
+>>>>>>> master
