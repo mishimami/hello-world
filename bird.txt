@@ -2,8 +2,12 @@
 pdll
 jj jj kk
 
+<<<<<<< HEAD
 <<<<<<< 8f8ccdef8cfcc248fb196af5aeafd1cec794a5b5
 I am a blue bird. 
 =======
 I am master bird!
 >>>>>>> write to bird from master for rebase
+=======
+I am master bird!
+>>>>>>> d7b146564e78ebcb1bfd146f330227ea57e5c06d
